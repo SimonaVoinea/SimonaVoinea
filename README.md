@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <h3>I'm a junior backend developer...</h3> <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></p>
 <br>
 <h3>📫How to reach me: ...</h3>
-<a href="https://www.linkedin.com/in/simona-voinea/"><img alt="LinkedIn" src="https://img.shields.io/badgesimona-voinea-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/simona-voinea/"><img alt="LinkedIn" src="https://img.shields.io/badge/simona-voinea-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:voinea.simona96@gmail.com"><img alt="Email" src="https://img.shields.io/badge/voinea.simona96@gmail.com-B23121?style=flat-square&logo=gmail"></a>
 <br><br>
 
