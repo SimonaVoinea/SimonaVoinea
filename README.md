@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <br>
 <h3>📫How to reach me: ...</h3>
 <a href="https://www.linkedin.com/in/simona-voinea/"><img alt="LinkedIn" src="https://img.shields.io/badge/simona-voinea?style=flat-square&logo=linkedin"></a>
-<a href="mailto:voinea.simona96@gmail.com"><img alt="Email" src="https://img.shields.io/badge/voinea.simona96@gmail.com-B23121?style=flat-square&logo=gmail"></a>
+<a href="mailto:voinea.simona96@gmail.com"><img alt="Email" src="https://img.shields.io/badge/voinea.simona96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br><br>
 
 - 🔭 I’m currently working on ...
