@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <h3>I'm a junior backend developer...</h3> 
 <br>
 <h3>📫How to reach me: ...</h3>
-<a href="https://www.linkedin.com/in/simona-voinea/"><img alt="LinkedIn" src="https://img.shields.io/badge/simona-voinea?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/simona-voinea/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:voinea.simona96@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br><br>
 
